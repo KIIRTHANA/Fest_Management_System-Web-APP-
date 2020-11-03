@@ -1,5 +1,5 @@
 # Fest_Management_System_Web-APP
-This is a project designed to facilitate the process of registration that happen during Inter and Intra college Fests. Backend is yet to be finished.
+This is a project designed to facilitate the process of registration that happen during Inter and Intra college Fests.
 
 <img src="https://i.ibb.co/9VdF7dX/1.png">
 
