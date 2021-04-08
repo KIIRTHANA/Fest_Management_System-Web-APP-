@@ -9,10 +9,6 @@ This is a project designed to facilitate the process of registration that happen
 
 <img src="https://i.ibb.co/86R7DZY/4.png" alt="4" border="0">
 
-<img src="https://i.ibb.co/1KNpG4d/6.png" alt="6" border="0">
-
-<img src="https://i.ibb.co/s98C2MT/6.png" alt="6" border="0">
-
 <img src="https://i.ibb.co/nssMpnK/7.png" alt="7" border="0">
 
 <img src="https://i.ibb.co/3cgx2DP/8.png" alt="8" border="0">
