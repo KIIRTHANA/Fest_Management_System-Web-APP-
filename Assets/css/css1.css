@@ -3,8 +3,8 @@ header>h1{
     font-family: "Palatino Linotype", "Book Antiqua", Palatino,serif;
     text-align: center;
     color: antiquewhite;
-    font-size:100px;
-    text-shadow:3px 2px black;
+    font-size:90px;
+    text-shadow:4px 2px black;
 }
 header{
     background-color: rgba(255, 166, 0, 0.575);
@@ -12,6 +12,28 @@ header{
     margin-left: 10px;
     margin-right: 10px;
     border-radius: 15px 50px;
+}
+.nav1{
+    display: block;
+    padding: 30px 40px ; 
+    border-radius: 55px;
+    background-color: #000;
+    color: orange;
+    width: 300px;
+    float:right;
+    margin-left: 220px;
+    margin-right: 80px;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.nav1:hover{
+    background-color: rgba(245, 209, 7, 0.61);
+    color: #000;
+    border-radius: 0px;
+    border: 6px solid black;
 }
 body{
     background-image: url(images/bg3.jpg);
@@ -35,6 +57,8 @@ text-decoration: none;
     background-color: orange;
     color: black;
 }
+
+
 
 /*images and divs in events page */
 .imgs{
@@ -82,6 +106,7 @@ div.show-image input.explore {
     color: blanchedalmond;
     font-size: 60px;
     text-shadow:3px 2px black;
+    margin-top: 780px;
 }
 
 /* About section */
