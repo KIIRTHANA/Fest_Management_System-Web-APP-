@@ -7,10 +7,6 @@ This is a project designed to facilitate the process of registration that happen
 
 <img src="https://i.ibb.co/Mp2LLQ7/3.png" alt="3" border="0">
 
-<img src="https://i.ibb.co/b6Z8M6z/Screenshot-2020-10-17-at-5-36-40-PM.png" alt="Screenshot-2020-10-17-at-5-36-40-PM">
-
-<img src="https://i.ibb.co/C2MNPZS/5.png" alt="5" border="0">
-
 <img src="https://i.ibb.co/86R7DZY/4.png" alt="4" border="0">
 
 <img src="https://i.ibb.co/1KNpG4d/6.png" alt="6" border="0">
